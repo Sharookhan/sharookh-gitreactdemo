@@ -1,0 +1,1 @@
+"This is a react project created with vite. It utilizes modern development tools and offers fast development and building processes." 
